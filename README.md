@@ -1,7 +1,8 @@
-# TMDB-Project
+# TMDB-Project:
+
 This was my end-of-module assignment for Programmatic Data Wrangling. I performed Exploratory Data Analysis on a small but comprehensive movie dataset. The submission is a single Jupyter Notebook (.ipynb) file containing my entire exploration.
 
-The notebook is  annotated and code-commented for easy access and interpretation
+The notebook is annotated and code-commented for easy access and interpretation.
 
 ## Key Outcomes:
 
